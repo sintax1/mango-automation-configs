@@ -15,7 +15,7 @@
          "updatePeriodType":"SECONDS",
          "transportType":"TCP",
          "encapsulated":false,
-         "host":"172.17.0.3",
+         "host":"plc1",
          "port":502,
          "contiguousBatches":false,
          "createSlaveMonitorPoints":false,
